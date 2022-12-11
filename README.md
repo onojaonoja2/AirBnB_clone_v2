@@ -365,6 +365,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :
-* **Ogwalu Chidozie** <[gentomacine](https://github.com/gentomacine)>
-* **Mubarak Abuhasan** <[muubaraq](https://github.com/muubaraq)>
+* **Caleb Nyong**
 
